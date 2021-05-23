@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1612242812 source:c:\users\rohith\documents\dictionary\main.c
+	<dictionary.h>
+
+1610006976 source:c:\users\rohith\documents\dictionary\test.c
+	<dictionary.h>
+
+1612860522 c:\users\rohith\documents\dictionary\\dictionary.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1612242662 source:c:\users\rohith\documents\dictionary\avl_insert.c
+	<dictionary.h>
+
+1609997607 source:c:\users\rohith\documents\dictionary\inorder traversal and search.c
+	<dictionary.h>
+
+1612245231 source:c:\users\rohith\documents\dictionary\load and store.c
+	<dictionary.h>
+
+1612860522 source:c:\users\rohith\documents\dictionary\supportive functions.c
+	<dictionary.h>
+
